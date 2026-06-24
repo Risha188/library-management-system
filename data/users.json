@@ -1,0 +1,42 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Alice",
+            "surname": "Johnson",
+            "email": "alice.johnson@example.com",
+            "subscriptionType": "Standard",
+            "subscriptionDate": "2025-01-15",
+            "issuedBook": "The Great Gatsby",
+            "issuedDate": "2025-02-01",
+            "returnDate": "2025-02-15"
+        },
+        {
+            "id": 2,
+            "name": "Bob",
+            "surname": "Smith",
+            "email": "bob.smith@example.com",
+            "subscriptionType": "Premium",
+            "subscriptionDate": "2024-12-20"
+        },
+        {
+            "id": 3,
+            "name": "Carol",
+            "surname": "Lee",
+            "email": "carol.lee@example.com",
+            "subscriptionType": "Basic",
+            "subscriptionDate": "2025-03-10",
+            "issuedBook": "1984",
+            "issuedDate": "2025-03-15",
+            "returnDate": "2025-03-29"
+        },
+        {
+            "id": 4,
+            "name": "David",
+            "surname": "Brown",
+            "email": "david.brown@example.com",
+            "subscriptionType": "Standard",
+            "subscriptionDate": "2025-02-05"
+        }
+    ]
+}
